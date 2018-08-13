@@ -1,2 +1,2 @@
 # semanticWeb
-challenge week 1 phase 1
+challenge week 1 phase 2
